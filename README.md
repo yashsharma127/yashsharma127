@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Indian<br><br>- 🔭 Probably Student for the rest of my life<br>- 📚 currently learning and loving DevOps ♾️<br>- ⚡ Genshin made an Impact on me<br>- 🫠 Main Protagonist waiting for the cosmic moment.</p>
+<p align="left">- 🔭 Probably Student for the rest of my life<br>- 📚 currently learning and loving DevOps ♾️<br>- ⚡ Genshin made an Impact on me<br>- 🫠 Main Protagonist waiting for the cosmic moment.</p>
 
 ###
 
