@@ -1,29 +1,23 @@
 <br clear="both">
 
 <div align="center">
-  <img height="180" src="https://media.giphy.com/media/Rzr6V9lPpSM8g/giphy.gif"  />
+  <img height="180" src="https://media.giphy.com/media/VFGsPXfFeIcGdtwAIC/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yash-sharma-368442226/https://www.linkedin.com/in/yash-sharma-368442226/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="15" height="" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/YashSha87409012" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="15" height="" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="50" alt="twitter logo"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yashsharma127.yashsharma127&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there, code sorcerer! 🧙‍♂️</h1>
 
 ###
 
