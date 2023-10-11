@@ -1,8 +1,8 @@
 <br clear="both">
 
-<div align="center">
-  <img height="180" src="https://media.giphy.com/media/VFGsPXfFeIcGdtwAIC/giphy.gif"  />
-</div>
+//<div align="center">
+ // <img height="180" src="https://media.giphy.com/media/VFGsPXfFeIcGdtwAIC/giphy.gif"  />
+//</div>
 
 ###
 
