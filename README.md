@@ -1,13 +1,13 @@
 <br clear="both">
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yash-sharma-368442226/" target="_blank">
+<!-- <div align="center">
+   <a href="https://www.linkedin.com/in/yash-sharma-368442226/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/YashSha87409012" target="_blank">
+  </a> 
+   <a href="https://twitter.com/YashSha87409012" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="50" alt="twitter logo"  />
   </a>
-</div>
+</div> -->
 
 ###
 
