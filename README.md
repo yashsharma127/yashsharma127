@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- 🔭 Probably a Student for Life<br>- 📚 currently learning and loving DevOps ♾️<br>- ⚡ Genshin made an Impact on me<br>- 🫠 Main Protagonist waiting for the cosmic moment.</p>
+<!--  <p align="left">- 🔭 Probably a Student for Life<br>- 📚 currently learning and loving DevOps ♾️<br>- ⚡ Genshin made an Impact on me<br>- 🫠 Main Protagonist waiting for the cosmic moment.</p> -->
 
 ###
 
@@ -82,9 +82,9 @@
 <p align="left">Thank You for Visting my Profile Check out my Repositories also......</p>
 
 ###
-
+<!-- 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/RRFqAEc4BZgEf6U5Zu/giphy.gif"  />
 </div>
-
+-->
 ###
