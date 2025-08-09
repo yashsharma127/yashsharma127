@@ -78,9 +78,9 @@
 </div>
 
 ###
-
+<!--
 <p align="left">Thank You for Visting my Profile Check out my Repositories also......</p>
-
+-->
 ###
 <!-- 
 <div align="center">
