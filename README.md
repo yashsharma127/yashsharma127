@@ -14,12 +14,12 @@
 <h1 align="center">Hey there, code sorcerer! 🧙‍♂️</h1>
 
 ###
-
+<!--
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<!--  <p align="left">- 🔭 Probably a Student for Life<br>- 📚 currently learning and loving DevOps ♾️<br>- ⚡ Genshin made an Impact on me<br>- 🫠 Main Protagonist waiting for the cosmic moment.</p> -->
+  <p align="left">- 🔭 Probably a Student for Life<br>- 📚 currently learning and loving DevOps ♾️<br>- ⚡ Genshin made an Impact on me<br>- 🫠 Main Protagonist waiting for the cosmic moment.</p> -->
 
 ###
 
